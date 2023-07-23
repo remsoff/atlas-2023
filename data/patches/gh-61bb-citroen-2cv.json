@@ -1,0 +1,104 @@
+{
+	"id": -1,
+	"name": "Citroën 2CV",
+	"description": "The Citroën 2CV (French: deux chevaux, pronounced \"two horses\", meaning \"two taxable horsepower\") is an economy car produced by the French company Citroën from 1948 to 1990. Introduced at the 1948 Paris Mondial de l'Automobile, it has an air-cooled engine that is mounted in the front and drives the front wheels.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+		]
+	},
+	"path": {
+		"163": [
+			[
+				-428,
+				466
+			],
+			[
+				-437,
+				469
+			],
+			[
+				-442,
+				470
+			],
+			[
+				-440,
+				476
+			],
+			[
+				-437,
+				479
+			],
+			[
+				-435,
+				479
+			],
+			[
+				-432,
+				477
+			],
+			[
+				-430,
+				480
+			],
+			[
+				-426,
+				481
+			],
+			[
+				-423,
+				478
+			],
+			[
+				-407,
+				477
+			],
+			[
+				-404,
+				480
+			],
+			[
+				-400,
+				480
+			],
+			[
+				-398,
+				478
+			],
+			[
+				-396,
+				477
+			],
+			[
+				-398,
+				470
+			],
+			[
+				-402,
+				463
+			],
+			[
+				-405,
+				461
+			],
+			[
+				-407,
+				460
+			],
+			[
+				-416,
+				460
+			],
+			[
+				-423,
+				461
+			]
+		]
+	},
+	"center": {
+		"163": [
+			-416,
+			469
+		]
+	}
+}
