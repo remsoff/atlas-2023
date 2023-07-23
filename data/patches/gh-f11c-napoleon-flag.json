@@ -1,0 +1,32 @@
+{
+	"id": 86,
+	"name": "Napoléon Flag",
+	"description": "Napoléon is a french emperor of the XIX th century. His legacy is contested because of his war crimes and the fact that he reestablished slavery. \nThe flag isn't part of the official French place, it was run by groups of far right activists, and some facists streamers",
+	"links": {},
+	"path": {
+		"163": [
+			[
+				-367,
+				461
+			],
+			[
+				-367,
+				614
+			],
+			[
+				-305,
+				615
+			],
+			[
+				-306,
+				461
+			]
+		]
+	},
+	"center": {
+		"163": [
+			-336,
+			538
+		]
+	}
+}
